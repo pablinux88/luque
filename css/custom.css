@@ -440,3 +440,25 @@ img::-moz-selection {
     border-color: #8e7a22;
     background-color: #8e7a22;
 }
+
+.categorias {
+    color: #fff;
+    background-color: #8e7a22;
+    padding: 70px 0;
+    text-align: center;
+}
+
+.content-rosa {
+    color: #fff;
+    background-color: #cc009e80;
+}
+
+.content-azul {
+    color: #fff;
+    background-color: #0B1F45;
+}
+
+.content-oro {
+    color: #fff;
+    background-color: #8e7a22;
+}
