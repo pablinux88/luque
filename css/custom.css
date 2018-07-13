@@ -462,3 +462,9 @@ img::-moz-selection {
     color: #fff;
     background-color: #8e7a22;
 }
+
+.anuncios {
+
+    padding: 70px 0;
+    text-align: center;
+}
